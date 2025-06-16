@@ -2,7 +2,7 @@
 
 Övergripande schema över veckan  
 
-###### TypeScript, vecka 1 av 3 (grunder)
+##### TypeScript, vecka 1 av 3 (grunder)
 
 ---
 
