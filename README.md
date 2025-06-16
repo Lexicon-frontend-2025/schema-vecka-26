@@ -57,10 +57,10 @@
 
 ## 📑 Lektionsrepon  
 
-**Måndag 23 juni** [`lektion-23-juni`](https://github.com/Lexicon-frontend-2025/lektion-23-juni) - **TypeScript – Intro** Översikt TS vs JS, felsökning i DevTools, initiera projekt med `npm` & `tsc`, första enkla exempel.
-**Tisdag 24 juni** [`lektion-24-juni`](https://github.com/Lexicon-frontend-2025/lektion-24-juni) - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
-**Onsdag 25 juni** - [`lektion-25-juni`](https://github.com/Lexicon-frontend-2025/lektion-25-juni) - **Objekt** Objekt‑syntax, inbyggda objekt (`Math`, `Date`, `Window`), JSON‑hantering. 
-**Torsdag 26 juni** - [`lektion-26-juni`](https://github.com/Lexicon-frontend-2025/lektion-26-juni) - **Arrayer** Metoder (`push`, `pop`, `splice`, `.length`), iteration med `for`, `for…of`. 
-**Fredag 27 juni** - Gemensam code review, lösa uppgifter, repetera veckans koncept. 
+* **[Måndag]** - **TypeScript – Intro** Översikt TS vs JS, felsökning i DevTools, initiera projekt med `npm` & `tsc`, första enkla exempel.
+* **[Tisdag]** - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
+* **[Onsdag]** - **Objekt** Objekt‑syntax, inbyggda objekt (`Math`, `Date`, `Window`), JSON‑hantering. 
+* **[Torsdag]** - **Arrayer** Metoder (`push`, `pop`, `splice`, `.length`), iteration med `for`, `for…of`. 
+* **[Fredag]** - Gemensam code review, lösa uppgifter, repetera veckans koncept. 
 
 ---
