@@ -44,12 +44,12 @@
 
 ---
 
-## Slides
+## 🖥️ Slides
 * Publiceras löpande under veckan.
 
 ---
 
-## Övrigt
+## ➕ Övrigt
 * [TypeScript Playground](https://www.typescriptlang.org/play) – testa kod direkt i webbläsaren.  
 * [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets) – snabbreferens.  
 
