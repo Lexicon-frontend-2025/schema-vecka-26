@@ -26,7 +26,7 @@
 * [What is TypeScript? – Fireship](https://www.youtube.com/watch?v=BwuLxPH8IDs)  
 * [TypeScript in 100 Seconds – Fireship](https://www.youtube.com/watch?v=BCg4U1FzODs)  
 * [Installing TypeScript & Project Setup – The Net Ninja](https://www.youtube.com/watch?v=ahCwqrYpIuM)  
-* [Interfaces vs Types in TypeScript – Web Dev Simplified](https://www.youtube.com/watch?v=IqfZzjJR5xI) _(för fördjupning nästa vecka)_  
+* [Interfaces vs Types in TypeScript – onjsdev](https://www.youtube.com/watch?v=BTBftM7D9v8) _(för fördjupning nästa vecka)_  
 
 ### Läsning  
 * [TypeScript Handbook – Intro](https://www.typescriptlang.org/docs/handbook/intro.html)  
