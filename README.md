@@ -10,8 +10,8 @@
 1. Förstå vad TypeScript är och hur det skiljer sig från JavaScript.  
 2. Kunna installera och konfigurera ett TypeScript‑projekt med **npm** och `tsconfig.json`.  
 3. Förstå och använda **grundläggande datatyper** (`string`, `number`, `boolean`, m.fl.) samt **variabler**, **aritmetiska‑** och **tilldelningsoperatorer**.  
-4. Förstå och kunna skapa **objekt** i TypeScript, inklusive inbyggda objekt som `Math`, `Date`, `Window` samt hantering av JSON‑data. 
-5. Förstå och använda **arrayer** och viktiga arraymetoder (`push`, `pop`, `splice`, `.length`) samt loop‑tekniker (`for`, `for…of`).  
+4. Förstå och använda **arrayer** och viktiga arraymetoder (`push`, `pop`, `splice`, `.length`) samt loop‑tekniker (`for`, `for…of`).  
+5. Förstå och kunna skapa **objekt** i TypeScript, inklusive inbyggda objekt som `Math`, `Date`, `Window` samt hantering av JSON‑data. 
 
 ---
 
@@ -59,8 +59,8 @@
 
 * **[Måndag]** - **TypeScript – Intro** Översikt TS vs JS, felsökning i DevTools, initiera projekt med `npm` & `tsc`, första enkla exempel.
 * **[Tisdag]** - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
-* **[Onsdag]** - **Objekt** Objekt‑syntax, inbyggda objekt (`Math`, `Date`, `Window`), JSON‑hantering. 
-* **[Torsdag]** - **Arrayer** Metoder (`push`, `pop`, `splice`, `.length`), iteration med `for`, `for…of`. 
+* **[Onsdag]** - **Arrayer** Metoder (`push`, `pop`, `splice`, `.length`), iteration med `for`, `for…of`. 
+* **[Torsdag]** - **Objekt** Objekt‑syntax, inbyggda objekt (`Math`, `Date`, `Window`), JSON‑hantering. 
 * **[Fredag]** - Gemensam code review, lösa uppgifter, repetera veckans koncept. 
 
 ---
