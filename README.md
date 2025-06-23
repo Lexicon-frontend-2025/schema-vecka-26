@@ -46,6 +46,7 @@
 
 ## 🖥️ Slides
 * [TS-intro](https://docs.google.com/presentation/d/1q19qNw7dsSIs506-OBViTdxLee_yPFE0WlrHWZ6GjpY/edit?usp=sharing)
+* [Variabler & datatyper](https://docs.google.com/presentation/d/1Gevii1EX2RGXQRl4zuqGrXsWC2XLhMNClMdIaM7VzC0/edit?usp=sharing)
 * Publiceras löpande under veckan.
 
 ---
