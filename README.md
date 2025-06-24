@@ -61,7 +61,7 @@
 ## 📑 Lektionsrepon  
 
 * **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-23-juni)** - **TypeScript – Intro** Översikt TS vs JS, felsökning i DevTools, initiera projekt med `npm` & `tsc`, första enkla exempel.
-* **[Tisdag]** - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
+* **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-24-jun)** - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
 * **[Onsdag]** - **Arrayer** Metoder (`push`, `pop`, `splice`, `.length`), iteration med `for`, `for…of`. 
 * **[Torsdag]** - **Objekt** Objekt‑syntax, inbyggda objekt (`Math`, `Date`, `Window`), JSON‑hantering. 
 * **[Fredag]** - Gemensam code review, lösa uppgifter, repetera veckans koncept. 
