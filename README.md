@@ -38,10 +38,7 @@
 ---
 
 ## 🛠️ Övningar  
-* Jämför JavaScript vs TypeScript – hitta fel **innan** de körs.  
-* Skriv kod med typade variabler, funktioner och **objekt** (inkl. JSON‑parse/stringify).  
-* Bygg egna inbyggda‑objekt‑liknande helpers (t.ex. enkel `Math`‑utökning).  
-* Manipulera arrayer med olika metoder och loopar.  
+* [Sammanfattande övning av veckans koncept](https://github.com/Lexicon-frontend-2025/typescript_uppgift-vecka-1/blob/main/README.md)
 
 ---
 
@@ -66,6 +63,6 @@
 * **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-24-jun)** (Maja) - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
 * **[Onsdag]** (Maja) - **Arrayer** Metoder (`push`, `pop`, `splice`, `.length`), iteration med `for`, `for…of`. 
 * **[Torsdag]** (Maja) - **Objekt** Objekt‑syntax, inbyggda objekt (`Math`, `Date`, `Window`), JSON‑hantering. 
-* **[Fredag]** (Robert) - Gemensam code review, lösa uppgifter, repetera veckans koncept. 
+* **[Fredag]** (Robert) - APL-info 09:15. Gemensam code review på [Denna övning](https://github.com/Lexicon-frontend-2025/typescript_uppgift-vecka-1/blob/main/README.md), lösa uppgifter, repetera veckans koncept. 
 
 ---
