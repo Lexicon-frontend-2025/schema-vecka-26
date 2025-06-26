@@ -62,8 +62,8 @@
 
 * **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-23-juni)** (Maja) - **TypeScript – Intro** Översikt TS vs JS, felsökning i DevTools, initiera projekt med `npm` & `tsc`, första enkla exempel.
 * **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-24-jun)** (Maja) - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
-* **[Onsdag]** (Maja) - **Arrayer** Metoder (`push`, `pop`, `splice`, `.length`), iteration med `for`, `for…of`. 
-* **[Torsdag]** (Maja) - **Objekt** Objekt‑syntax, inbyggda objekt (`Math`, `Date`, `Window`), JSON‑hantering. 
+* **[Onsdag](https://github.com/Lexicon-frontend-2025/lektion-25-26-juni)** (Maja) - **Arrayer** Metoder (`push`, `pop`, `splice`, `.length`), iteration med `for`, `for…of`. 
+* **[Torsdag](https://github.com/Lexicon-frontend-2025/lektion-25-26-juni)** (Maja) - **Objekt** Objekt‑syntax, inbyggda objekt (`Math`, `Date`, `Window`), JSON‑hantering. 
 * **[Fredag]** (Robert) - APL-info 09:15. Gemensam code review på [Denna övning](https://github.com/Lexicon-frontend-2025/typescript_uppgift-vecka-1/blob/main/README.md), lösa uppgifter, repetera veckans koncept. 
 
 ---
